@@ -1,0 +1,11 @@
+{
+  "Solana Menu title": "{red}[Store Solana] {white}",
+  "Solana Menu item": "Comprar {0}",
+  "Solana Options title": "Opções de Compra de Solana",
+  "Solana Options item": "{0} Solana - {1} Créditos",
+  "Prefix": "[SolanaStore] ",
+  "Not enough credits": "Você não tem créditos suficientes!",
+  "Solana purchased": "Você comprou {gold}{0} {1} {white} por {darkblue}{2} créditos e recebeu {green}{3} {white}moedas do jogo.",
+  "Solana balance": "Seu saldo de Solana (estudo) é: {0:F2}",
+  "Game currency balance": "Seu saldo de moedas do jogo é: {0}"
+}
